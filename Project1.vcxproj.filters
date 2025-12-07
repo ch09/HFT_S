@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\core">
+      <UniqueIdentifier>{c3faccda-efa2-4b41-89b5-e79fb7157f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\data">
+      <UniqueIdentifier>{8eb76d9d-6d3f-4b16-9cf6-b503d86447b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\strategies">
+      <UniqueIdentifier>{40a46aec-20c2-4db5-aabd-b59386c5f80b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\execution">
+      <UniqueIdentifier>{0996f58d-02ce-4c95-a99a-1369746b93c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\risk">
+      <UniqueIdentifier>{02055536-1244-4bbc-9d25-3d0ee310c384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\utils">
+      <UniqueIdentifier>{1b7ee4f3-6b75-4699-922d-3ff99d2bda44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\core">
+      <UniqueIdentifier>{23a58aee-f2d7-46f2-8b0d-69a953c0cf54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\data">
+      <UniqueIdentifier>{5a1ae878-e8c2-45cf-9c32-c081911fcfc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\startegies">
+      <UniqueIdentifier>{acfcc5c6-6b80-43d7-935c-a1659a66e56b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\execution">
+      <UniqueIdentifier>{82aa2ad1-f877-4cc3-bf09-19616b19c3c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\risk">
+      <UniqueIdentifier>{3be09685-4056-43cb-a6e8-2b07a2688bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utils">
+      <UniqueIdentifier>{f4306d74-8bfa-4b48-a977-2d864ac4c725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{46be2221-f3d5-4760-a8a2-7c06ada0ed87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests\unit">
+      <UniqueIdentifier>{31850bea-f63b-47fe-ae78-a5260e51415a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests\integration">
+      <UniqueIdentifier>{fdbbad60-f929-4a81-b90f-085733bf1969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests\performance">
+      <UniqueIdentifier>{fd1e7fd6-e2d3-4f87-9769-5a6ed96c1cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="python">
+      <UniqueIdentifier>{59bd366e-8b2c-4e85-8b94-335d2df7e20b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="python\bindings">
+      <UniqueIdentifier>{5f2bfd7f-ee95-4ba3-b242-66e8f643e1b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="python\analysis">
+      <UniqueIdentifier>{65a0eaaf-b410-4eae-b552-943f16fb6b0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="benchmarks">
+      <UniqueIdentifier>{936895de-ee82-4142-ae07-0cd315e9f850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="config">
+      <UniqueIdentifier>{cde21ce9-6c8f-48b9-a92b-57f493974ec9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts">
+      <UniqueIdentifier>{179abaa4-da53-4372-92e2-f4295721c91e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="docker">
+      <UniqueIdentifier>{47f7ee45-185b-4585-a38e-679466ad5bbf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
